@@ -1,7 +1,7 @@
 # LSB Image Steganography Tool
 A small tool to perform password-based LSB image steganography
 
-added gui with many options via tarcry.sh script. main changes:
+added menu with many options via tarcry.sh script. main changes:
 
 1. working out of temp folders
 2. encrypted tarballs within images
