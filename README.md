@@ -1,6 +1,8 @@
 # LSB Image Steganography Tool
 A small tool to perform password-based LSB image steganography
 
+added gui with many options via tarcry.sh script. 
+
 <p>
 <a href="#"><img src="https://img.shields.io/badge/python-3.6%2B-red" alt="Python 3.6+"></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-%23557ef6" alt="Platform: linux, macOS"></a>
