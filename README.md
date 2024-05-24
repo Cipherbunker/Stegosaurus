@@ -1,7 +1,11 @@
 # LSB Image Steganography Tool
 A small tool to perform password-based LSB image steganography
 
-added gui with many options via tarcry.sh script. 
+added gui with many options via tarcry.sh script. main changes:
+
+1. working out of temp folders
+2. encrypted tarballs within images
+3. ability to purge temp folders
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/python-3.6%2B-red" alt="Python 3.6+"></a>
